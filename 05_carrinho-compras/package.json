@@ -1,15 +1,14 @@
 {
-  "name": "04_modules",
+  "name": "05_carrinho-compras",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cjs": "node src/main.js",
-    "esm": "node src/index.js"
+    "dev": "node src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "CommonJS modules and Ecma Script modules"
+  "description": "Buying card in the style of Shopee"
 }
